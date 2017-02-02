@@ -10,7 +10,7 @@ We're going to build a simple program that implements only the very first thing 
 2. Use `puts` to print "Welcome to Tic Tac Toe!"
 3. Have tests pass locally by running `learn`.
 4. Submit solution.
-
+puts "Welcome to Tic Tac Toe!"
 ## Instructions
 
 1. Run `learn`
