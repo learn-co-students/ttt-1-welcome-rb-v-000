@@ -8,5 +8,5 @@
 #print
 #puts " Welcome To Tic Tac Toe!"
 #print
-puts " Welcome To Tic Tac Toe!"
+puts " WELCOME TO TIC TAC TOE"
 print
