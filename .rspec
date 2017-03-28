@@ -1,3 +1,4 @@
+puts "Welcome to Tic Tac Toe!"
 --color
 --format documentation
 --require spec_helper
