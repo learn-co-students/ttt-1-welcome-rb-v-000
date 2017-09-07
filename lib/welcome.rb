@@ -1,1 +1,1 @@
-puts "Welcome to Tic Tac Toe!"
+lib/welcome.rb puts "Welcome to Tic Tac Toe!"
