@@ -15,7 +15,7 @@ We're going to build a simple program that implements only the very first thing 
 
 1. Run `learn`
 2. Read output.
-3. Code solution in `lib/welcome.rb`
+3. Code solution in 'lib/welcome.rb'
 4. Run `learn`
 5. Read output.
 6. If still broken, repeat 3-5
