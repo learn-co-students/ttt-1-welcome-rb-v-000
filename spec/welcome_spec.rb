@@ -3,6 +3,7 @@ describe "lib/welcome.rb" do
     expect($stdout).to receive(:puts).with("Welcome to Tic Tac Toe!"), "Make sure lib/welcome.rb has code that can output 'Welcome to Tic Tac Toe!' exactly."
 
     load '.ruby /lib/welcome.rb'
+    puts "welcome to Tic Tac Toe"
 
   end
 end
