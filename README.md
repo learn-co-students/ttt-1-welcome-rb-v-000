@@ -7,7 +7,7 @@ We're going to build a simple program that implements only the very first thing 
 ## Objectives
 
 1. Read the output from running `learn`.
-2. Use `puts` to print "Welcome to Tic Tac Toe!"
+2. Use `puts` to ruprint "Welcome to Tic Tac Toe!"
 3. Have tests pass locally by running `learn`.
 4. Submit solution.
 
